@@ -1,7 +1,7 @@
 ## AsyncAwaitTryCatch
-professor: Jansen K Cara 
-Turma: DS1A
-Aluno: Maria Eduarda
+- professor: Jansen K Cara 
+- Turma: DS1A
+- Aluno: Maria Eduarda
 
 ### Objetivo:
 Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
@@ -27,6 +27,6 @@ A melhor turma é a DS1A
 - README.md
 
 
-Sobre mim
+### Sobre mim
 Olá! Meu nome é Maria Eduarda, e sou um estudante que estou desenvolvimento conhecimento sobre o AsyncAwaitTryCatch.
 $copy; 2026 Maria Eduarda. Todos os direitos reservados
