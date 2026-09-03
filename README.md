@@ -6,9 +6,10 @@ Aluno:
 ### Objetivo
 Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
 Tecnologias:
-Visual Code
-Git
-JavaScript
+- Prompt de Comando
+- Visual Code
+- Git
+- JavaScript
 
 A melhor turma é a DS1A
 
