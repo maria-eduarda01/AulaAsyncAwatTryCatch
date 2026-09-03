@@ -3,7 +3,7 @@ professor: Jansen K Cara
 Turma: DS1A
 Aluno: Maria Eduarda
 
-### Objetivo
+### Objetivo:
 Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
 Tecnologias:
 - Prompt de Comando
@@ -24,6 +24,7 @@ A melhor turma é a DS1A
 - 08-finally.js
 - 09-throw.js
 - 10-fetch-api.js
+- README.md
 
 
 Sobre mim
